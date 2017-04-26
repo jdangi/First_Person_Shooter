@@ -1,0 +1,928 @@
+fileFormatVersion: 2
+guid: 6d39ba574b9f3b74585f8d0e91d22945
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: CtrlL01
+    100002: CtrlL02
+    100004: CtrlL03
+    100006: CtrlR01
+    100008: CtrlR02
+    100010: CtrlR03
+    100012: IK Chain001
+    100014: IK Chain002
+    100016: IK Chain003
+    100018: IK Chain004
+    100020: IK Chain005
+    100022: IK Chain006
+    100024: LegRBack01
+    100026: LegRBack01(mirrored)
+    100028: LegRBack02
+    100030: LegRBack02(mirrored)
+    100032: LegRBack03
+    100034: LegRBack03(mirrored)
+    100036: LegRBack04
+    100038: LegRBack04(mirrored)
+    100040: LegRBackNUB
+    100042: LegRBackNUB(mirrored)
+    100044: LegRFront01
+    100046: LegRFront01(mirrored)
+    100048: LegRFront02
+    100050: LegRFront02(mirrored)
+    100052: LegRFront03
+    100054: LegRFront03(mirrored)
+    100056: LegRFront04
+    100058: LegRFront04(mirrored)
+    100060: LegRFrontNUB
+    100062: LegRFrontNUB(mirrored)
+    100064: LegRMiddle01
+    100066: LegRMiddle01(mirrored)
+    100068: LegRMiddle02
+    100070: LegRMiddle02(mirrored)
+    100072: LegRMiddle03
+    100074: LegRMiddle03(mirrored)
+    100076: LegRMiddle04
+    100078: LegRMiddle04(mirrored)
+    100080: LegRMiddleNUB
+    100082: LegRMiddleNUB(mirrored)
+    100084: //RootNode
+    100086: MasterZombie
+    100088: MasterZombieBip001
+    100090: MasterZombieBip001 Footsteps
+    100092: MasterZombieBip001 Head
+    100094: MasterZombieBip001 HeadNub
+    100096: MasterZombieBip001 L Calf
+    100098: MasterZombieBip001 L Clavicle
+    100100: MasterZombieBip001 L Foot
+    100102: MasterZombieBip001 L Forearm
+    100104: MasterZombieBip001 L Hand
+    100106: MasterZombieBip001 L Thigh
+    100108: MasterZombieBip001 L Toe0
+    100110: MasterZombieBip001 L Toe0Nub
+    100112: MasterZombieBip001 L UpperArm
+    100114: MasterZombieBip001 Neck
+    100116: MasterZombieBip001 Pelvis
+    100118: MasterZombieBip001 R Calf
+    100120: MasterZombieBip001 R Clavicle
+    100122: MasterZombieBip001 R Foot
+    100124: MasterZombieBip001 R Forearm
+    100126: MasterZombieBip001 R Hand
+    100128: MasterZombieBip001 R Thigh
+    100130: MasterZombieBip001 R Toe0
+    100132: MasterZombieBip001 R Toe0Nub
+    100134: MasterZombieBip001 R UpperArm
+    100136: MasterZombieBip001 Spine
+    100138: MasterZombieBip001 Spine1
+    100140: MasterZombieParent
+    100142: SwivelL01
+    100144: SwivelL02
+    100146: SwivelL03
+    100148: SwivelR01
+    100150: SwivelR02
+    100152: SwivelR03
+    400000: CtrlL01
+    400002: CtrlL02
+    400004: CtrlL03
+    400006: CtrlR01
+    400008: CtrlR02
+    400010: CtrlR03
+    400012: IK Chain001
+    400014: IK Chain002
+    400016: IK Chain003
+    400018: IK Chain004
+    400020: IK Chain005
+    400022: IK Chain006
+    400024: LegRBack01
+    400026: LegRBack01(mirrored)
+    400028: LegRBack02
+    400030: LegRBack02(mirrored)
+    400032: LegRBack03
+    400034: LegRBack03(mirrored)
+    400036: LegRBack04
+    400038: LegRBack04(mirrored)
+    400040: LegRBackNUB
+    400042: LegRBackNUB(mirrored)
+    400044: LegRFront01
+    400046: LegRFront01(mirrored)
+    400048: LegRFront02
+    400050: LegRFront02(mirrored)
+    400052: LegRFront03
+    400054: LegRFront03(mirrored)
+    400056: LegRFront04
+    400058: LegRFront04(mirrored)
+    400060: LegRFrontNUB
+    400062: LegRFrontNUB(mirrored)
+    400064: LegRMiddle01
+    400066: LegRMiddle01(mirrored)
+    400068: LegRMiddle02
+    400070: LegRMiddle02(mirrored)
+    400072: LegRMiddle03
+    400074: LegRMiddle03(mirrored)
+    400076: LegRMiddle04
+    400078: LegRMiddle04(mirrored)
+    400080: LegRMiddleNUB
+    400082: LegRMiddleNUB(mirrored)
+    400084: MasterZombie
+    400086: //RootNode
+    400088: MasterZombieBip001
+    400090: MasterZombieBip001 Footsteps
+    400092: MasterZombieBip001 Head
+    400094: MasterZombieBip001 HeadNub
+    400096: MasterZombieBip001 L Calf
+    400098: MasterZombieBip001 L Clavicle
+    400100: MasterZombieBip001 L Foot
+    400102: MasterZombieBip001 L Forearm
+    400104: MasterZombieBip001 L Hand
+    400106: MasterZombieBip001 L Thigh
+    400108: MasterZombieBip001 L Toe0
+    400110: MasterZombieBip001 L Toe0Nub
+    400112: MasterZombieBip001 L UpperArm
+    400114: MasterZombieBip001 Neck
+    400116: MasterZombieBip001 Pelvis
+    400118: MasterZombieBip001 R Calf
+    400120: MasterZombieBip001 R Clavicle
+    400122: MasterZombieBip001 R Foot
+    400124: MasterZombieBip001 R Forearm
+    400126: MasterZombieBip001 R Hand
+    400128: MasterZombieBip001 R Thigh
+    400130: MasterZombieBip001 R Toe0
+    400132: MasterZombieBip001 R Toe0Nub
+    400134: MasterZombieBip001 R UpperArm
+    400136: MasterZombieBip001 Spine
+    400138: MasterZombieBip001 Spine1
+    400140: MasterZombieParent
+    400142: SwivelL01
+    400144: SwivelL02
+    400146: SwivelL03
+    400148: SwivelR01
+    400150: SwivelR02
+    400152: SwivelR03
+    4300000: MasterZombie
+    7400000: Idle
+    7400002: Idle2Walk
+    7400004: Walk
+    7400006: Attack
+    7400008: Hit
+    7400010: Death
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: MasterZombie
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 64
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle2Walk
+      takeName: Take 001
+      firstFrame: 70
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 80
+      lastFrame: 112
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 120
+      lastFrame: 152
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Hit
+      takeName: Take 001
+      firstFrame: 160
+      lastFrame: 206
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 210
+      lastFrame: 240
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: MasterZombieBip001 Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LegRMiddle01(mirrored)
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LegRBack01
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LegRMiddle02(mirrored)
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LegRBack02
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LegRMiddle03(mirrored)
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LegRBack03
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MasterZombieBip001 Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MasterZombieBip001 Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MasterZombieBip001 Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MasterZombieBip001 L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MasterZombieBip001 R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MasterZombieBip001 L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MasterZombieBip001 R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MasterZombieBip001 L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MasterZombieBip001 R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MasterZombieBip001 L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: MasterZombieBip001 R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LegRMiddle04(mirrored)
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LegRBack04
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: MasterZombie(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: MasterZombie
+      position: {x: 0, y: 0, z: -2.66524125e-07}
+      rotation: {x: -.707106709, y: 0, z: -0, w: .707106888}
+      scale: {x: 16.2749748, y: 16.2749748, z: 16.2749748}
+      transformModified: 1
+    - name: MasterZombieParent
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CtrlL01
+      position: {x: -6.05219221, y: -6.13562489, z: 1.04410338}
+      rotation: {x: .679234385, y: .196572348, z: .34129402, w: .619288623}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: IK Chain004
+      position: {x: 1.2207031e-06, y: -9.15527323e-07, z: -3.05175774e-07}
+      rotation: {x: -.679234445, y: -.196572274, z: -.341293961, w: .619288623}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: CtrlL02
+      position: {x: -8.57329655, y: 0, z: 1.04410338}
+      rotation: {x: .70275569, y: -.0783227682, z: .0783227086, w: .70275569}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IK Chain005
+      position: {x: -0, y: 0, z: 2.59518913e-07}
+      rotation: {x: -.702755749, y: .0783226937, z: -.0783227831, w: .70275563}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CtrlL03
+      position: {x: -6.05222082, y: 6.05457497, z: 1.0441016}
+      rotation: {x: .6192891, y: -.341293871, z: -.196571752, w: .679234207}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: IK Chain006
+      position: {x: -1.83105465e-06, y: 6.10351549e-07, z: -9.15527323e-07}
+      rotation: {x: -.6192891, y: .341293842, z: .19657208, w: .679234207}
+      scale: {x: .999999881, y: .999999821, z: 1.00000012}
+      transformModified: 1
+    - name: CtrlR01
+      position: {x: 6.05223989, y: -6.13561773, z: 1.04409969}
+      rotation: {x: .19657205, y: .679234445, z: -.619288445, w: -.341294318}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: IK Chain001
+      position: {x: -3.66210929e-06, y: -6.10351549e-07, z: -3.05175774e-07}
+      rotation: {x: .196571961, y: .679234564, z: -.619288445, w: .341294348}
+      scale: {x: .99999994, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: CtrlR02
+      position: {x: 8.57327271, y: 0, z: 1.04410028}
+      rotation: {x: .0783229619, y: -.70275569, z: .702755749, w: .0783228576}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IK Chain002
+      position: {x: -6.10351549e-07, y: -3.05175774e-07, z: -5.32468334e-07}
+      rotation: {x: -.0783229843, y: .70275569, z: -.70275563, w: .0783228651}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CtrlR03
+      position: {x: 6.05219936, y: 6.05457258, z: 1.04410279}
+      rotation: {x: .341293722, y: -.619288802, z: .679234505, w: -.196571857}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: IK Chain003
+      position: {x: -1.28173824e-05, y: -2.4414062e-06, z: 1.1901855e-05}
+      rotation: {x: .341293573, y: -.619288921, z: .679234445, w: .196571842}
+      scale: {x: .999999881, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: MasterZombieBip001
+      position: {x: -0, y: .259141982, z: 10.2076654}
+      rotation: {x: 0, y: 0, z: .707106292, w: .707107246}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: MasterZombieBip001 Footsteps
+      position: {x: -0, y: 0, z: -7.73582268}
+      rotation: {x: 0, y: 0, z: -.707106292, w: .707107246}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: MasterZombieBip001 Pelvis
+      position: {x: 4.78572247e-07, y: -.523004711, z: 2.55769539}
+      rotation: {x: -.499999642, y: .500000358, z: .499999642, w: .500000358}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: MasterZombieBip001 Spine
+      position: {x: -1.05754817, y: -.00367231364, z: 1.47170033e-06}
+      rotation: {x: -2.08047595e-06, y: 6.93675986e-07, z: -.000398158998, w: .99999994}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: MasterZombieBip001 L Thigh
+      position: {x: 1.05754519, y: .00450498564, z: 3.57153249}
+      rotation: {x: -.0503768288, y: .998730302, z: 1.38720645e-06, w: 2.62049653e-08}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: MasterZombieBip001 L Calf
+      position: {x: -.203932494, y: 7.62939436e-08, z: 0}
+      rotation: {x: 6.97224464e-14, y: 2.12777861e-14, z: .0998334363, w: .995004177}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: MasterZombieBip001 L Foot
+      position: {x: -.203933716, y: 7.62939436e-08, z: 0}
+      rotation: {x: -2.1847173e-09, y: -4.36567618e-08, z: -.0499791615, w: .998750269}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: MasterZombieBip001 L Toe0
+      position: {x: -.0469042957, y: .0603639968, z: 0}
+      rotation: {x: -1.54543098e-08, y: 1.54543098e-08, z: -.707106829, w: .707106829}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: MasterZombieBip001 L Toe0Nub
+      position: {x: -.00611797301, y: 0, z: 0}
+      rotation: {x: -9.55341462e-16, y: -1.75552502e-30, z: 1, w: -1.83758927e-15}
+      scale: {x: -.99999994, y: -1, z: -.99999994}
+      transformModified: 1
+    - name: MasterZombieBip001 R Thigh
+      position: {x: 1.05754519, y: .00452482235, z: -3.57153249}
+      rotation: {x: -.0503768288, y: .998730302, z: 1.38720645e-06, w: 2.62049706e-08}
+      scale: {x: .99999994, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: MasterZombieBip001 R Calf
+      position: {x: -.16086486, y: 0, z: 0}
+      rotation: {x: 1.29886294e-14, y: 8.44431286e-15, z: .0998334214, w: .995004177}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: MasterZombieBip001 R Foot
+      position: {x: -.160864249, y: -7.62939436e-08, z: 0}
+      rotation: {x: -2.18471663e-09, y: -4.36567511e-08, z: -.0499791577, w: .998750269}
+      scale: {x: 1.00000012, y: .99999994, z: 1}
+      transformModified: 1
+    - name: MasterZombieBip001 R Toe0
+      position: {x: -.0265435781, y: .0341604799, z: 0}
+      rotation: {x: -1.54543098e-08, y: 1.54543098e-08, z: -.707106829, w: .707106829}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: MasterZombieBip001 R Toe0Nub
+      position: {x: -.00346220005, y: 0, z: 0}
+      rotation: {x: 1.69702734e-30, y: -9.55341462e-16, z: 1.77635705e-15, w: 1}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: MasterZombieBip001 Spine1
+      position: {x: -4.61249638, y: -.00367280957, z: -1.01869588e-08}
+      rotation: {x: -3.01176727e-14, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: MasterZombieBip001 Neck
+      position: {x: -3.42570543, y: -.0993402451, z: -1.38801298e-07}
+      rotation: {x: -3.01176727e-14, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: MasterZombieBip001 R Clavicle
+      position: {x: .0535937473, y: -1.38799608, z: -1.72911084}
+      rotation: {x: .635222554, y: .000251851568, z: .772329032, w: -.000308387738}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: MasterZombieBip001 R UpperArm
+      position: {x: -2.91863346, y: 1.52587887e-07, z: -1.2207031e-06}
+      rotation: {x: -.0584255755, y: -.0280892085, z: -.0903216898, w: .993800521}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: MasterZombieBip001 R Forearm
+      position: {x: -5.01605511, y: -3.05175774e-07, z: 1.2207031e-06}
+      rotation: {x: .00130468572, y: -.0149893984, z: .0268344432, w: .99952662}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: MasterZombieBip001 R Hand
+      position: {x: -4.11959887, y: 0, z: -1.2207031e-06}
+      rotation: {x: .700377107, y: .0953324139, z: -.0952565372, w: .700935006}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: MasterZombieBip001 Head
+      position: {x: -.689704597, y: 0, z: 0}
+      rotation: {x: -.0641401857, y: .00377297029, z: -.029383041, w: .997501135}
+      scale: {x: .99999994, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: MasterZombieBip001 HeadNub
+      position: {x: -7.66910982, y: 0, z: 0}
+      rotation: {x: -4.94765073e-09, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: MasterZombieBip001 L Clavicle
+      position: {x: .0535937473, y: -1.3880055, z: 1.72910321}
+      rotation: {x: -.635222554, y: -.000253993698, z: .772329032, w: -.00030662588}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: MasterZombieBip001 L UpperArm
+      position: {x: -2.91863298, y: 1.52587887e-07, z: 0}
+      rotation: {x: .00671829376, y: .11010462, z: .0921396092, w: .989617229}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: MasterZombieBip001 L Forearm
+      position: {x: -5.01605463, y: 0, z: -1.2207031e-06}
+      rotation: {x: -.00108523737, y: .012469274, z: .0418028198, w: .999047458}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: MasterZombieBip001 L Hand
+      position: {x: -4.11959934, y: -1.52587887e-07, z: 0}
+      rotation: {x: -.700377107, y: -.0953324065, z: -.0952565148, w: .700935006}
+      scale: {x: .99999994, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: LegRMiddle01
+      position: {x: -.208716422, y: .259132653, z: -3.53708982}
+      rotation: {x: .182189733, y: .683233559, z: .683232009, w: -.182189077}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: LegRMiddle02
+      position: {x: -3.3231883, y: 6.10351549e-07, z: -1.29050463e-07}
+      rotation: {x: -8.23532526e-15, y: 1.57392427e-14, z: .463607639, w: .886040628}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: LegRMiddle03
+      position: {x: -3.54125977, y: -6.10351549e-07, z: -1.36788003e-11}
+      rotation: {x: -1.64439609e-15, y: -1.79583927e-14, z: -.684935629, w: .728603601}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LegRMiddle04
+      position: {x: -6.18970156, y: -1.2207031e-06, z: 2.91038298e-13}
+      rotation: {x: 3.49141231e-07, y: -1.95531751e-08, z: .633651733, w: .77361846}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: LegRMiddleNUB
+      position: {x: -3.69272637, y: 1.83105465e-06, z: 3.84243304e-10}
+      rotation: {x: -2.38418579e-07, y: 1.86517485e-14, z: -8.19563937e-08, w: 1}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: LegRFront01
+      position: {x: -.2087152, y: 2.833637, z: -2.4911325}
+      rotation: {x: .0986008793, y: .369764, z: .892686248, w: -.238041475}
+      scale: {x: 1.00000012, y: 1.00000024, z: .999999881}
+      transformModified: 1
+    - name: LegRFront02
+      position: {x: -3.32318711, y: 0, z: 1.09672541e-07}
+      rotation: {x: -1.51479416e-08, y: 2.4991504e-08, z: .463607639, w: .886040628}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: LegRFront03
+      position: {x: -3.54125977, y: -1.2207031e-06, z: -4.76837148e-09}
+      rotation: {x: 1.30182837e-10, y: -1.19503074e-10, z: -.684935808, w: .728603423}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: LegRFront04
+      position: {x: -6.18970203, y: 0, z: 2.09808348e-07}
+      rotation: {x: -2.73627506e-07, y: 2.16775859e-07, z: .633651555, w: .773618579}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LegRFrontNUB
+      position: {x: -3.69272637, y: 1.83105465e-06, z: -1.90734859e-08}
+      rotation: {x: -2.45594947e-07, y: 1.24406068e-08, z: -6.70552325e-08, w: 1}
+      scale: {x: .999999881, y: .999999881, z: 1}
+      transformModified: 1
+    - name: LegRBack01
+      position: {x: -.208716422, y: -2.23432064, z: -2.49109316}
+      rotation: {x: .083359547, y: .91895175, z: .383064926, w: -.0428964756}
+      scale: {x: .999999881, y: .999999881, z: .999999821}
+      transformModified: 1
+    - name: LegRBack02
+      position: {x: -3.32318902, y: 0, z: 6.61611566e-08}
+      rotation: {x: .0232421104, y: -.0444199778, z: .0725013167, w: .996107519}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: LegRBack03
+      position: {x: -3.54125786, y: -1.2207031e-06, z: 3.9339065e-07}
+      rotation: {x: -.787980497, y: .210685924, z: -.082767643, w: .57257998}
+      scale: {x: .99999994, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: LegRBack04
+      position: {x: -6.18970203, y: 0, z: -1.0550022e-07}
+      rotation: {x: .000180972391, y: 4.59255079e-06, z: .633574605, w: .773681581}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: LegRBackNUB
+      position: {x: -3.69272685, y: 1.52587882e-06, z: -2.68816933e-07}
+      rotation: {x: -2.42692323e-07, y: 4.92115237e-09, z: -8.19563866e-08, w: 1}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: LegRMiddle01(mirrored)
+      position: {x: -.208706662, y: .259152144, z: 3.53710818}
+      rotation: {x: -.133526534, y: .698932588, z: .693461716, w: .113025613}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: LegRMiddle02(mirrored)
+      position: {x: -3.3231883, y: -1.2207031e-06, z: -6.10351549e-07}
+      rotation: {x: -.0225665793, y: -.0431289412, z: -.0408699811, w: .997978091}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LegRMiddle03(mirrored)
+      position: {x: -3.54125905, y: 1.2207031e-06, z: 6.10351549e-07}
+      rotation: {x: -.752036631, y: -.09574233, z: .207120642, w: .618365169}
+      scale: {x: .999999821, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: LegRMiddle04(mirrored)
+      position: {x: -6.18970442, y: 3.05175763e-06, z: 8.39233678e-07}
+      rotation: {x: -1.63329105e-07, y: 2.11851692e-08, z: -.633570194, w: .773685217}
+      scale: {x: 1.00000024, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: LegRMiddleNUB(mirrored)
+      position: {x: -3.69272757, y: 0, z: 3.24249271e-07}
+      rotation: {x: 2.32063627e-07, y: -5.66605478e-14, z: -2.38418579e-07, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LegRFront01(mirrored)
+      position: {x: -.208707884, y: 2.83365107, z: 2.49106765}
+      rotation: {x: -.238041624, y: .892687261, z: .369762033, w: .0985988826}
+      scale: {x: .999999881, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: LegRFront02(mirrored)
+      position: {x: -3.32318783, y: 0, z: 4.7683713e-08}
+      rotation: {x: 1.38601797e-08, y: 3.27368497e-08, z: -.463607639, w: .886040628}
+      scale: {x: .99999994, y: 1.00000024, z: .999999881}
+      transformModified: 1
+    - name: LegRFront03(mirrored)
+      position: {x: -3.54125977, y: 0, z: 1.04904177e-06}
+      rotation: {x: 4.83522001e-07, y: 4.54654696e-07, z: .684936047, w: .728603184}
+      scale: {x: .999999762, y: .99999994, z: 1}
+      transformModified: 1
+    - name: LegRFront04(mirrored)
+      position: {x: -6.18970203, y: 0, z: -4.1484833e-07}
+      rotation: {x: -4.39439134e-08, y: -4.16648817e-07, z: -.633651912, w: .773618281}
+      scale: {x: 1.00000024, y: 1, z: .999999881}
+      transformModified: 1
+    - name: LegRFrontNUB(mirrored)
+      position: {x: -3.69272518, y: 0, z: -9.53674295e-09}
+      rotation: {x: 1.37744308e-07, y: -2.69041095e-07, z: 2.98023615e-08, w: 1}
+      scale: {x: .99999994, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: LegRBack01(mirrored)
+      position: {x: -.208707884, y: -2.23430657, z: 2.4911077}
+      rotation: {x: -.0985995755, y: .369764447, z: .892686307, w: .238041267}
+      scale: {x: 1, y: 1, z: .999999821}
+      transformModified: 1
+    - name: LegRBack02(mirrored)
+      position: {x: -3.32318711, y: 0, z: -4.1395424e-07}
+      rotation: {x: -1.51484567e-08, y: -1.88347595e-08, z: -.463607728, w: .886040568}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LegRBack03(mirrored)
+      position: {x: -3.54126024, y: 0, z: 1.67340033e-06}
+      rotation: {x: -5.33778916e-07, y: -4.68008551e-07, z: .684935629, w: .728603601}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: LegRBack04(mirrored)
+      position: {x: -6.18970156, y: 6.10351549e-07, z: 7.9140068e-07}
+      rotation: {x: 1.01212026e-06, y: 4.71064993e-07, z: -.633651376, w: .773618758}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: LegRBackNUB(mirrored)
+      position: {x: -3.69272637, y: -9.15527323e-07, z: -4.21106819e-07}
+      rotation: {x: 2.02056114e-07, y: -3.38770121e-07, z: -4.47034232e-08, w: 1}
+      scale: {x: .999999821, y: 1, z: .999999881}
+      transformModified: 1
+    - name: SwivelL01
+      position: {x: -10.7510805, y: -10.8345652, z: 7.0779047}
+      rotation: {x: .650027752, y: -.278322995, z: .65644592, w: .262829065}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SwivelL02
+      position: {x: -15.7653503, y: 7.71015607e-07, z: 7.06493521}
+      rotation: {x: .4940359, y: -.505893886, z: .505894482, w: .494035155}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SwivelL03
+      position: {x: -10.3198643, y: 10.3222218, z: 7.09237051}
+      rotation: {x: .262832791, y: -.656444132, z: .278326869, w: .650026262}
+      scale: {x: 1, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: SwivelR01
+      position: {x: 10.1328297, y: -10.2162256, z: 7.09863853}
+      rotation: {x: .278326571, y: -.6500265, z: .262831658, w: .65644449}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SwivelR02
+      position: {x: 13.9380169, y: 2.28148011e-07, z: 7.10827732}
+      rotation: {x: .505894005, y: -.494035721, z: .494035095, w: .505894601}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SwivelR03
+      position: {x: 10.3250294, y: 10.3273993, z: 7.09219599}
+      rotation: {x: .65644443, y: -.262831926, z: .65002656, w: .278326333}
+      scale: {x: 1, y: .999999821, z: 1.00000012}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

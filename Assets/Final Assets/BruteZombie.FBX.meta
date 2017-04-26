@@ -1,0 +1,453 @@
+fileFormatVersion: 2
+guid: 35b739fa409a94a459db361fa4b2f1af
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Brute
+    100002: BruteBip001
+    100004: BruteBip001 Footsteps
+    100006: BruteBip001 Head
+    100008: BruteBip001 HeadNub
+    100010: BruteBip001 L Calf
+    100012: BruteBip001 L Clavicle
+    100014: BruteBip001 L Foot
+    100016: BruteBip001 L Forearm
+    100018: BruteBip001 L Hand
+    100020: BruteBip001 L Thigh
+    100022: BruteBip001 L Toe0
+    100024: BruteBip001 L Toe0Nub
+    100026: BruteBip001 L UpperArm
+    100028: BruteBip001 Neck
+    100030: BruteBip001 Pelvis
+    100032: BruteBip001 R Calf
+    100034: BruteBip001 R Clavicle
+    100036: BruteBip001 R Foot
+    100038: BruteBip001 R Forearm
+    100040: BruteBip001 R Hand
+    100042: BruteBip001 R Thigh
+    100044: BruteBip001 R Toe0
+    100046: BruteBip001 R Toe0Nub
+    100048: BruteBip001 R UpperArm
+    100050: BruteBip001 Spine
+    100052: BruteBip001 Spine1
+    100054: //RootNode
+    100056: BruteZombieBody
+    100058: BruteZombieHead
+    100060: Helper001
+    400000: Brute
+    400002: BruteBip001
+    400004: BruteBip001 Footsteps
+    400006: BruteBip001 Head
+    400008: BruteBip001 HeadNub
+    400010: BruteBip001 L Calf
+    400012: BruteBip001 L Clavicle
+    400014: BruteBip001 L Foot
+    400016: BruteBip001 L Forearm
+    400018: BruteBip001 L Hand
+    400020: BruteBip001 L Thigh
+    400022: BruteBip001 L Toe0
+    400024: BruteBip001 L Toe0Nub
+    400026: BruteBip001 L UpperArm
+    400028: BruteBip001 Neck
+    400030: BruteBip001 Pelvis
+    400032: BruteBip001 R Calf
+    400034: BruteBip001 R Clavicle
+    400036: BruteBip001 R Foot
+    400038: BruteBip001 R Forearm
+    400040: BruteBip001 R Hand
+    400042: BruteBip001 R Thigh
+    400044: BruteBip001 R Toe0
+    400046: BruteBip001 R Toe0Nub
+    400048: BruteBip001 R UpperArm
+    400050: BruteBip001 Spine
+    400052: BruteBip001 Spine1
+    400054: //RootNode
+    400056: BruteZombieBody
+    400058: BruteZombieHead
+    400060: Helper001
+    4300000: BruteZombieBody
+    4300002: BruteZombieHead
+    7400000: Take 001
+    7400002: Idle
+    7400004: Idle2Walk
+    7400006: Walk
+    7400008: Hit
+    7400010: Death
+    7400012: Attack
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: BruteZombieBody
+    13700002: BruteZombieHead
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: BruteBip001 Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BruteBip001 L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BruteBip001 R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BruteBip001 L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BruteBip001 R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BruteBip001 L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BruteBip001 R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BruteBip001 Spine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BruteBip001 Neck
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BruteBip001 Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BruteBip001 L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BruteBip001 R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BruteBip001 L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BruteBip001 R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BruteBip001 L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BruteBip001 R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BruteBip001 L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BruteBip001 R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BruteBip001 L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: BruteBip001 R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: BruteZombie(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Brute
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BruteBip001
+      position: {x: -.482599974, y: 0, z: 12.3000002}
+      rotation: {x: 0, y: 0, z: .707106292, w: .707107246}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: BruteBip001 Footsteps
+      position: {x: -0, y: 0, z: -12.1940918}
+      rotation: {x: 2.51214958e-15, y: -2.5121462e-15, z: -.707106292, w: .707107246}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BruteBip001 Pelvis
+      position: {x: 6.61599586e-07, y: -.482599944, z: 3.81469727e-06}
+      rotation: {x: -.499999642, y: .500000358, z: .499999642, w: .500000358}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: BruteBip001 Spine
+      position: {x: -1.30179679, y: -.00441863528, z: .000536041276}
+      rotation: {x: -.0601665601, y: -.00630465476, z: -.00823625736, w: .998134494}
+      scale: {x: 1, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: BruteBip001 Spine1
+      position: {x: -5.59115839, y: -.0044192886, z: .00053428649}
+      rotation: {x: -.0601619743, y: -.00632928498, z: -.00783889834, w: .998137772}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: BruteBip001 Neck
+      position: {x: -5.9430027, y: 1.41978848, z: 1.98364251e-06}
+      rotation: {x: .0021442764, y: .00294199469, z: -.184367403, w: .982850671}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: BruteBip001 R Clavicle
+      position: {x: 2.2314055, y: -.346831053, z: -.75264436}
+      rotation: {x: .493976593, y: .360401988, z: .639216423, w: -.466368824}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: BruteBip001 R UpperArm
+      position: {x: -5.27361965, y: 0, z: 0}
+      rotation: {x: -.192356825, y: -.0759492666, z: .0185430683, w: .978205919}
+      scale: {x: .99999994, y: .999999821, z: 1.00000012}
+      transformModified: 1
+    - name: BruteBip001 R Forearm
+      position: {x: -6.29323053, y: 0, z: 0}
+      rotation: {x: .00716763549, y: -.0169667657, z: .0257557556, w: .999498606}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: BruteBip001 R Hand
+      position: {x: -4.69672346, y: 9.15527323e-07, z: -1.2207031e-06}
+      rotation: {x: .677823544, y: .10000506, z: -.200402871, w: .700280607}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: BruteBip001 Head
+      position: {x: -.848950148, y: 0, z: 0}
+      rotation: {x: -.0488643274, y: -.106576495, z: .12904197, w: .984683692}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: BruteBip001 HeadNub
+      position: {x: -3.1747632, y: 0, z: 2.28881831e-07}
+      rotation: {x: -4.19095159e-09, y: 9.0803951e-09, z: 3.80554963e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: BruteBip001 L Clavicle
+      position: {x: 2.2314055, y: -.346835941, z: .752646327}
+      rotation: {x: -.493977875, y: -.360403806, z: .63921541, w: -.466367513}
+      scale: {x: 1.00000012, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: BruteBip001 L UpperArm
+      position: {x: -5.27361917, y: 1.52587887e-07, z: 4.88281239e-06}
+      rotation: {x: .146622136, y: .150169402, z: -.0699579045, w: .975221455}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: BruteBip001 L Forearm
+      position: {x: -6.29323006, y: -1.2207031e-06, z: -1.2207031e-06}
+      rotation: {x: -.00414334703, y: .00844441634, z: .0233624354, w: .999682784}
+      scale: {x: .999999821, y: .999999821, z: 1}
+      transformModified: 1
+    - name: BruteBip001 L Hand
+      position: {x: -4.69672251, y: -1.52587887e-07, z: 0}
+      rotation: {x: -.677823544, y: -.10000509, z: -.20040293, w: .700280607}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: BruteBip001 R Thigh
+      position: {x: 1.25154412, y: .467809588, z: -3.66282177}
+      rotation: {x: -.126148522, y: .988593102, z: .0659839734, w: -.0491570532}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: BruteBip001 R Calf
+      position: {x: -5.25145817, y: 0, z: 3.05175774e-07}
+      rotation: {x: 8.52534709e-10, y: 4.07681444e-09, z: .254664183, w: .967029572}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: BruteBip001 R Foot
+      position: {x: -4.23309374, y: 7.62939436e-08, z: 0}
+      rotation: {x: -.00690898206, y: -.0497594327, z: -.141213953, w: .988703668}
+      scale: {x: .99999994, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: BruteBip001 R Toe0
+      position: {x: -2.8421967, y: 5.20394087, z: .0661337301}
+      rotation: {x: -1.54543081e-08, y: 1.54543081e-08, z: -.707106829, w: .707106829}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: BruteBip001 R Toe0Nub
+      position: {x: -2.39315677, y: 0, z: 3.05175774e-07}
+      rotation: {x: 2.03642656e-29, y: -2.86601539e-15, z: 7.1054282e-15, w: 1}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: BruteBip001 L Thigh
+      position: {x: 1.35133421, y: -.414124817, z: 3.63263226}
+      rotation: {x: -.131697372, y: .989443362, z: .060465049, w: -.00126977474}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BruteBip001 L Calf
+      position: {x: -5.25145912, y: -3.05175774e-07, z: -3.05175774e-07}
+      rotation: {x: 5.60014292e-11, y: 1.58736028e-11, z: .272706449, w: .962097347}
+      scale: {x: 1, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: BruteBip001 L Foot
+      position: {x: -4.23309374, y: 7.62939436e-08, z: 6.10351549e-07}
+      rotation: {x: -.000667794666, y: -.00236171135, z: -.151692078, w: .988424778}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: BruteBip001 L Toe0
+      position: {x: -2.8421967, y: 5.20394087, z: -.0661337301}
+      rotation: {x: 1.54543081e-08, y: -1.54543081e-08, z: -.707106829, w: .707106829}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: BruteBip001 L Toe0Nub
+      position: {x: -2.39315677, y: 0, z: 3.05175774e-07}
+      rotation: {x: 2.86604016e-15, y: 2.05399345e-29, z: 1, w: -7.16665937e-15}
+      scale: {x: -.99999994, y: -1, z: -.99999994}
+      transformModified: 1
+    - name: BruteZombieBody
+      position: {x: 7.95171573e-08, y: -7.95171573e-08, z: 0}
+      rotation: {x: .707106829, y: 0, z: 0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: BruteZombieHead
+      position: {x: 7.95171573e-08, y: -7.95171573e-08, z: 0}
+      rotation: {x: .707106829, y: 0, z: 0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Helper001
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: .707106829, y: 0, z: 0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

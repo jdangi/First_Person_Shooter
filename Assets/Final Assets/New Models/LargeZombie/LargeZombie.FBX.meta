@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: 8e59d14d879d24bc2875485e9598f652
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: LargeZombie
+    100002: //RootNode
+    100004: LargeZombieBip001
+    100006: LargeZombieBip001 Footsteps
+    100008: LargeZombieBip001 FreakArm
+    100010: LargeZombieBip001 FreakArm02
+    100012: LargeZombieBip001 FreakArmNub
+    100014: LargeZombieBip001 Head
+    100016: LargeZombieBip001 HeadNub
+    100018: LargeZombieBip001 JAW
+    100020: LargeZombieBip001 JAWNub
+    100022: LargeZombieBip001 L Calf
+    100024: LargeZombieBip001 L Clavicle
+    100026: LargeZombieBip001 L Foot
+    100028: LargeZombieBip001 L Forearm
+    100030: LargeZombieBip001 L Hand
+    100032: LargeZombieBip001 L Thigh
+    100034: LargeZombieBip001 L Toe0
+    100036: LargeZombieBip001 L Toe0Nub
+    100038: LargeZombieBip001 L UpperArm
+    100040: LargeZombieBip001 Neck
+    100042: LargeZombieBip001 Pelvis
+    100044: LargeZombieBip001 R Calf
+    100046: LargeZombieBip001 R Clavicle
+    100048: LargeZombieBip001 R Foot
+    100050: LargeZombieBip001 R Forearm
+    100052: LargeZombieBip001 R Hand
+    100054: LargeZombieBip001 R Thigh
+    100056: LargeZombieBip001 R Toe0
+    100058: LargeZombieBip001 R Toe0Nub
+    100060: LargeZombieBip001 R UpperArm
+    100062: LargeZombieBip001 Spine
+    100064: LargeZombieBip001 Spine1
+    100066: LargeZombieParent
+    400000: //RootNode
+    400002: LargeZombie
+    400004: LargeZombieBip001
+    400006: LargeZombieBip001 Footsteps
+    400008: LargeZombieBip001 FreakArm
+    400010: LargeZombieBip001 FreakArm02
+    400012: LargeZombieBip001 FreakArmNub
+    400014: LargeZombieBip001 Head
+    400016: LargeZombieBip001 HeadNub
+    400018: LargeZombieBip001 JAW
+    400020: LargeZombieBip001 JAWNub
+    400022: LargeZombieBip001 L Calf
+    400024: LargeZombieBip001 L Clavicle
+    400026: LargeZombieBip001 L Foot
+    400028: LargeZombieBip001 L Forearm
+    400030: LargeZombieBip001 L Hand
+    400032: LargeZombieBip001 L Thigh
+    400034: LargeZombieBip001 L Toe0
+    400036: LargeZombieBip001 L Toe0Nub
+    400038: LargeZombieBip001 L UpperArm
+    400040: LargeZombieBip001 Neck
+    400042: LargeZombieBip001 Pelvis
+    400044: LargeZombieBip001 R Calf
+    400046: LargeZombieBip001 R Clavicle
+    400048: LargeZombieBip001 R Foot
+    400050: LargeZombieBip001 R Forearm
+    400052: LargeZombieBip001 R Hand
+    400054: LargeZombieBip001 R Thigh
+    400056: LargeZombieBip001 R Toe0
+    400058: LargeZombieBip001 R Toe0Nub
+    400060: LargeZombieBip001 R UpperArm
+    400062: LargeZombieBip001 Spine
+    400064: LargeZombieBip001 Spine1
+    400066: LargeZombieParent
+    4300000: LargeZombie
+    7400000: Idle
+    7400002: Idle2Walk
+    7400004: Walk
+    7400006: Attack
+    7400008: Attack2Idle
+    7400010: Hit
+    7400012: Death
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: LargeZombie
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: LargeZombieBip001 Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LargeZombieBip001 L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LargeZombieBip001 R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LargeZombieBip001 L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LargeZombieBip001 R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LargeZombieBip001 L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LargeZombieBip001 R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LargeZombieBip001 Spine1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LargeZombieBip001 Neck
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LargeZombieBip001 Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LargeZombieBip001 L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LargeZombieBip001 R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LargeZombieBip001 L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LargeZombieBip001 R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LargeZombieBip001 L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LargeZombieBip001 R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LargeZombieBip001 L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LargeZombieBip001 R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LargeZombieBip001 L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LargeZombieBip001 R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LargeZombieBip001 JAW
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: LargeZombie(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LargeZombie
+      position: {x: 0, y: 0, z: 9.96754039e-08}
+      rotation: {x: .707106829, y: 0, z: 0, w: .707106829}
+      scale: {x: 1.12577498, y: 1.12577498, z: 1.12577498}
+      transformModified: 1
+    - name: LargeZombieParent
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106829, y: 0, z: -0, w: .707106829}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LargeZombieBip001
+      position: {x: .19219999, y: .931006432, z: 11.1660175}
+      rotation: {x: 0, y: 0, z: .707106292, w: .707107246}
+      scale: {x: .99999994, y: .99999994, z: 1}
+      transformModified: 1
+    - name: LargeZombieBip001 Footsteps
+      position: {x: -0, y: 0, z: -12.4654198}
+      rotation: {x: -2.51214958e-15, y: 2.5121462e-15, z: -.707106292, w: .707107246}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LargeZombieBip001 Pelvis
+      position: {x: 4.52902071e-08, y: .140876338, z: 1.90734863e-06}
+      rotation: {x: -.485575825, y: .519074082, z: .551328957, w: .436823457}
+      scale: {x: .999999762, y: .999999762, z: .999999702}
+      transformModified: 1
+    - name: LargeZombieBip001 Spine
+      position: {x: -1.17111576, y: -.00261520385, z: .000434627524}
+      rotation: {x: 2.05636024e-06, y: -2.98023224e-08, z: -2.98023224e-08, w: -1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LargeZombieBip001 Spine1
+      position: {x: -3.38366818, y: -.00144744874, z: .000433120731}
+      rotation: {x: .000602126122, y: .00138628483, z: .31401372, w: -.949417293}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1.00000024}
+      transformModified: 1
+    - name: LargeZombieBip001 Neck
+      position: {x: -3.38157153, y: -.000335693359, z: 0}
+      rotation: {x: -.000376224431, y: -.00196441961, z: .00497874478, w: .999985695}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LargeZombieBip001 R Clavicle
+      position: {x: .95925504, y: -.42721802, z: -.455193788}
+      rotation: {x: .583942175, y: .0509236641, z: .786647081, w: -.193919614}
+      scale: {x: 1, y: 1.00000024, z: .99999994}
+      transformModified: 1
+    - name: LargeZombieBip001 R UpperArm
+      position: {x: -1.76375926, y: 0, z: -6.10351549e-07}
+      rotation: {x: .360801876, y: -.135742635, z: .0384298787, w: .921910584}
+      scale: {x: 1.00000012, y: .999999881, z: 1.00000036}
+      transformModified: 1
+    - name: LargeZombieBip001 R Forearm
+      position: {x: -4.12930918, y: 0, z: -6.10351549e-07}
+      rotation: {x: .00358584221, y: -.0216342732, z: .0374435186, w: .999058068}
+      scale: {x: .999999821, y: 1.00000012, z: .999999702}
+      transformModified: 1
+    - name: LargeZombieBip001 R Hand
+      position: {x: -3.05385971, y: -3.81469718e-08, z: 6.10351549e-07}
+      rotation: {x: .712037802, y: .0940588415, z: -.130163953, w: .683529437}
+      scale: {x: .999999821, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: LargeZombieBip001 FreakArm
+      position: {x: -2.36679816, y: 1.81206048, z: .541231692}
+      rotation: {x: -.32003358, y: -.130276635, z: -.334390581, w: .876806438}
+      scale: {x: .999999762, y: .99999994, z: 1.00000024}
+      transformModified: 1
+    - name: LargeZombieBip001 FreakArm02
+      position: {x: -2.32917237, y: -.00178466795, z: -6.10351549e-07}
+      rotation: {x: 3.72528941e-09, y: 2.98023167e-07, z: -.1370579, w: .990563095}
+      scale: {x: .99999994, y: .999999881, z: .999999821}
+      transformModified: 1
+    - name: LargeZombieBip001 FreakArmNub
+      position: {x: -2.3286705, y: 0, z: 6.10351549e-07}
+      rotation: {x: .707388222, y: -.706825197, z: -9.69763391e-07, w: -9.68991571e-07}
+      scale: {x: .99999994, y: .99999994, z: 1.00000012}
+      transformModified: 1
+    - name: LargeZombieBip001 L Clavicle
+      position: {x: .95925492, y: -.427219242, z: .455191016}
+      rotation: {x: .599979997, y: .0684340447, z: -.777758002, w: .174451292}
+      scale: {x: .99999994, y: 1.00000024, z: .999999881}
+      transformModified: 1
+    - name: LargeZombieBip001 L UpperArm
+      position: {x: -1.76375973, y: 0, z: 0}
+      rotation: {x: -.351607144, y: .134974375, z: -.0294789486, w: .925897002}
+      scale: {x: .999999702, y: .999999881, z: .999999762}
+      transformModified: 1
+    - name: LargeZombieBip001 L Forearm
+      position: {x: -4.12930918, y: 3.05175774e-07, z: 0}
+      rotation: {x: -.00346481265, y: .0209040027, z: .0314322151, w: .999281287}
+      scale: {x: 1.00000012, y: 1, z: 1.00000024}
+      transformModified: 1
+    - name: LargeZombieBip001 L Hand
+      position: {x: -3.05385971, y: 7.62939436e-08, z: 0}
+      rotation: {x: -.712037683, y: -.0940588489, z: -.130164117, w: .683529556}
+      scale: {x: .999999523, y: 1.00000036, z: .999999881}
+      transformModified: 1
+    - name: LargeZombieBip001 Head
+      position: {x: -.455188274, y: -1.2207031e-06, z: -3.05175774e-07}
+      rotation: {x: 3.72528945e-07, y: -5.45754915e-07, z: .0571521372, w: .998365462}
+      scale: {x: .999999762, y: 1, z: .999999881}
+      transformModified: 1
+    - name: LargeZombieBip001 HeadNub
+      position: {x: -2.69306874, y: -3.05175774e-07, z: -1.52587887e-07}
+      rotation: {x: -1.86264515e-09, y: 3.7252903e-09, z: -1.49011612e-08, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LargeZombieBip001 JAW
+      position: {x: -1.03336418, y: .049052123, z: 2.13623048e-06}
+      rotation: {x: 7.45057971e-09, y: 2.22027279e-06, z: -.779157996, w: .626827538}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: LargeZombieBip001 JAWNub
+      position: {x: -1.69071901, y: 0, z: 1.52587887e-07}
+      rotation: {x: .707388282, y: -.706825197, z: -9.77672244e-07, w: -9.84793473e-07}
+      scale: {x: .99999994, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: LargeZombieBip001 L Thigh
+      position: {x: 1.11736321, y: .0211553946, z: 1.20873642}
+      rotation: {x: -.0677411035, y: -.996378899, z: -.00287315226, w: -.0513036326}
+      scale: {x: 1, y: 1, z: 1.00000036}
+      transformModified: 1
+    - name: LargeZombieBip001 L Calf
+      position: {x: -5.08976316, y: 7.62939436e-08, z: 0}
+      rotation: {x: 0, y: -2.98023153e-08, z: .00024418527, w: 1}
+      scale: {x: .99999994, y: .99999994, z: .999999702}
+      transformModified: 1
+    - name: LargeZombieBip001 L Foot
+      position: {x: -4.46950626, y: 1.52587887e-07, z: -1.52587887e-07}
+      rotation: {x: -.0187642705, y: .0527681187, z: -.0668535754, w: .996189713}
+      scale: {x: 1.00000012, y: .999999821, z: .99999994}
+      transformModified: 1
+    - name: LargeZombieBip001 L Toe0
+      position: {x: -1.76329362, y: 2.09909582, z: -.0617265292}
+      rotation: {x: -3.91317663e-08, y: 8.94069601e-08, z: .707106769, w: -.707106829}
+      scale: {x: 1.00000012, y: 1.00000036, z: 1.00000012}
+      transformModified: 1
+    - name: LargeZombieBip001 L Toe0Nub
+      position: {x: -.753955424, y: 9.53674295e-09, z: 0}
+      rotation: {x: -1.8777804e-14, y: 7.10542736e-15, z: 1, w: 7.16665937e-15}
+      scale: {x: -1, y: -1, z: -1}
+      transformModified: 1
+    - name: LargeZombieBip001 R Thigh
+      position: {x: 1.18399656, y: .393448472, z: -1.07487047}
+      rotation: {x: -.0677409843, y: -.996378839, z: .00287038065, w: .0513039604}
+      scale: {x: .999999881, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: LargeZombieBip001 R Calf
+      position: {x: -5.08976316, y: 7.62939436e-08, z: -1.52587887e-07}
+      rotation: {x: -5.96046377e-08, y: -2.98023188e-08, z: .000244185299, w: 1}
+      scale: {x: 1.00000012, y: .999999881, z: 1}
+      transformModified: 1
+    - name: LargeZombieBip001 R Foot
+      position: {x: -4.46950626, y: -1.52587887e-07, z: -1.52587887e-07}
+      rotation: {x: .0187644046, y: -.052768074, z: -.0668536797, w: .996189713}
+      scale: {x: .99999994, y: .999999821, z: 1}
+      transformModified: 1
+    - name: LargeZombieBip001 R Toe0
+      position: {x: -1.76329362, y: 2.09909558, z: .0617263764}
+      rotation: {x: 3.77710094e-08, y: 5.96046377e-08, z: .707106709, w: -.707106888}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LargeZombieBip001 R Toe0Nub
+      position: {x: -.753955543, y: 0, z: -1.52587887e-07}
+      rotation: {x: -3.11966703e-30, y: 1.75621662e-15, z: 1.77635663e-15, w: 1}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
